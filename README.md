@@ -1,5 +1,8 @@
 # Support Ticket Classification System
 
+<img width="1409" alt="Screenshot 2024-08-11 at 4 34 42 PM" src="Screenshot 2024-08-18 at 3.55.16 PM.png">
+
+
 ## Description
 This project is a machine learning-based support ticket classification system designed to categorize customer queries into predefined categories, including:
 - **Login Issues**
